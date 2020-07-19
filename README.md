@@ -1,2 +1,2 @@
 # Weather_APP
-Weather_app
+This is weather forecase Application, used to show temperature of your city.
